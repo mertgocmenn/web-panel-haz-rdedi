@@ -1,3 +1,3 @@
-# MertX Panel
+# MertX AI Bot Panel PRO
 
-Bu panel, MertX AI Bot'un web arayüzüdür.
+Gelişmiş alım-satım bot kontrol paneli. Canlı bakiye, kaldıraç seçimi ve işlem geçmişi içerir.
