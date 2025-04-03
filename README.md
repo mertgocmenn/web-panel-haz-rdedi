@@ -1,3 +1,3 @@
-# MertX AI Bot Panel PRO
+# MertX Panel PRO+
 
-Gelişmiş alım-satım bot kontrol paneli. Canlı bakiye, kaldıraç seçimi ve işlem geçmişi içerir.
+Tailwind + React + Shadcn tabanlı ileri düzey AI bot kontrol paneli
